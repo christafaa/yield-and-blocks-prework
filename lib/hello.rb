@@ -1,6 +1,5 @@
-def hello_t(name)
-  
+def hello_t(array)
+
 end
 
 hello_t {}
-
