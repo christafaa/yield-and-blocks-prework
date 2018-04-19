@@ -1,6 +1,6 @@
-def hello_t
+def hello_t(name)
   
 end
 
-hello_t
+hello_t {}
 
